@@ -17,7 +17,13 @@ Toy model: optimization can converge stably to the wrong branch until an orthogo
 
 Toy model: how increasing constraint strength (precision) collapses degeneracy into a unique solution.
 
-Minimal Colab demo of constraint-based branch selection:
+### 4. Orthogonality threshold
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/constraint-branch-selection/blob/main/notebooks/04_orthogonality_threshold.ipynb)
+
+Toy model: precision alone is not enough if constraints are too aligned; orthogonal constraints can resolve degeneracy.
+
+
+### Minimal Colab demo of constraint-based branch selection:
 fit ≠ identifiability
 
 A minimal repository for studying a common structure in inverse problems:
