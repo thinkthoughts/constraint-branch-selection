@@ -13,7 +13,7 @@ Toy model: adding constraints reduces parameter space but leaves multiple branch
 Toy model: optimization can converge stably to the wrong branch until an orthogonal constraint is added.
 
 ### 3. Observability threshold
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/constraint-branch-selection/blob/main/notebooks/03_observability_threshold_V2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/constraint-branch-selection/blob/main/notebooks/03_observability_threshold_v2.ipynb)
 
 Toy model: how increasing constraint strength (precision) collapses degeneracy into a unique solution.
 
