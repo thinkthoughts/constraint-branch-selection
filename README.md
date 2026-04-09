@@ -1,6 +1,14 @@
 # Constraint Branch Selection
 
+## Colab demos
+
+### 1. Constraint narrowing (degeneracy → branches)
+Toy model: adding constraints reduces parameter space but leaves multiple branches.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/constraint-branch-selection/blob/main/notebooks/01_branch_selection_demo.ipynb)
+
+### 2. Stable-but-wrong vs true branch
+Toy model: optimization can converge stably to the wrong branch until an orthogonal constraint is added.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/constraint-branch-selection/blob/main/notebooks/02_false_branch_vs_true.ipynb)
 
 Minimal Colab demo of constraint-based branch selection:
 fit ≠ identifiability
