@@ -2,7 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thinkthoughts/constraint-branch-selection/blob/main/notebooks/01_branch_selection_demo.ipynb)
 
-**signal fit ≠ identifiability**
+Minimal Colab demo of constraint-based branch selection:
+fit ≠ identifiability
 
 A minimal repository for studying a common structure in inverse problems:
 
